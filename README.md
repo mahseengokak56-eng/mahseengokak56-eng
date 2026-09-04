@@ -130,12 +130,7 @@ Collaborative build — a women's safety platform with SOS alerts, live location
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahseengokak56-eng&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=15121A&title_color=FF3D81&icon_color=FF8A5C&text_color=E8DDE3&ring_color=FFC35C" alt="Mahseen's GitHub statistics" />
-<img width="49%" src="https://streak-stats.demolab.com?user=mahseengokak56-eng&hide_border=true&background=15121A&ring=FF3D81&fire=FF8A5C&currStreakLabel=FFC35C&sideLabels=E8DDE3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9A7C88" alt="Mahseen's contribution streak" />
-
-<br />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahseengokak56-eng&bg_color=15121A&color=E8DDE3&line=FF3D81&point=FFC35C&area=true&area_color=FF8A5C&hide_border=true&radius=12" alt="Mahseen's contribution activity graph" />
+<img width="60%" src="https://streak-stats.demolab.com?user=mahseengokak56-eng&hide_border=true&background=15121A&ring=FF3D81&fire=FF8A5C&currStreakLabel=FFC35C&sideLabels=E8DDE3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9A7C88" alt="Mahseen's contribution streak" />
 
 </div>
 
